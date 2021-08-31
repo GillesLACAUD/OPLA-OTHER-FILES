@@ -1,0 +1,26 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Monday, July 05, 2021
+Project Path:       C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\V1.0 Minimal Version\ESP32.prj
+Design Path:        C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\V1.0 Minimal Version\ESP32.pcb
+Design Title:       
+Created:            04/07/2021 16:07:10
+Last Saved:         05/07/2021 20:10:31
+Editing Time:       463 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic and Pcb designs in project "ESP32"
+==================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+Component 'C322C104K5R5TA' package 'CAP_C322' in PCB is newer version than Schematic, use Update Component to correct this.
+Component 'LR1F10K' package 'RES_LR1_TYCO' in PCB is newer version than Schematic, use Update Component to correct this.
+Component 'LR1F220R' package 'RES_LR1_TYCO' in PCB is newer version than Schematic, use Update Component to correct this.
+Component 'DIN 41524' package 'MIDI 5pt' in PCB is newer version than Schematic, use Update Component to correct this.
+
+
+End Of Report.
