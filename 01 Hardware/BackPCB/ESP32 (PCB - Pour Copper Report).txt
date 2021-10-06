@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Wednesday, October 06, 2021
+Project Path:       C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\ESP32.prj
+Design Path:        C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\ESP32.pcb
+Design Title:       
+Created:            04/07/2021 16:07:10
+Last Saved:         06/10/2021 21:55:35
+Editing Time:       2111 min
+Units:              mm (precision 2)
+
+
+End Of Report.

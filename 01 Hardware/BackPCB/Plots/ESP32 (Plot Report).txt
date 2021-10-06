@@ -1,0 +1,251 @@
+Plot Report
+-----------
+
+Report Written:     Wednesday, October 06, 2021
+Project Path:       C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\ESP32.prj
+Design Path:        C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\ESP32.pcb
+Design Title:       
+Created:            04/07/2021 16:07:10
+Last Saved:         06/10/2021 21:55:35
+Editing Time:       2111 min
+Units:              mm (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    Leading zero suppression.
+
+PDF Settings
+============
+
+Combine Plots Yes
+Use Bookmarks Yes
+Component Details Yes
+Symbol Details Yes
+Link Net Names Yes
+View PDF Yes
+All Colors Black No
+Embed Fonts Yes
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\ESP32.mop"
+
+
+Gerber Output
+=============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D29    Round 5.00
+    D72    Round 3.94
+    D73    Round 1.00
+    D100   Round 5.91
+    D107   Round 19.69
+
+Gerber Output
+=============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D29    Round 5.00
+    D75    Round 10.00
+    D103   Round 196.85
+
+Gerber Output
+=============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D109   Round 202.85
+
+Gerber Output
+=============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Top Paste Mask.gbr
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D103   Round 196.85
+
+Gerber Output
+=============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D100   Round 5.91
+
+Gerber Output
+=============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D109   Round 202.85
+
+Gerber Output
+=============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Bottom Paste Mask.gbr
+
+    Layers:
+    ---------------------
+    Bottom Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.13780 inches 4     A
+    --------------------------------------
+    Total                4
+    --------------------------------------
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02500 inches 1
+    --------------------------------------
+    Total                1
+    --------------------------------------
+
+
+Gerber Output
+=============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    138   Y      100  Round A
+
+    D-Code Shape  (thou)
+    -----------------------
+    D29    Round 5.00
+    D99    Round 100.00
+
+Gerber Output
+=============
+
+C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\BackPCB\Plots\ESP32 - Board.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D29    Round 5.00
+
+PDF Output
+==========
+
+    Layer
+    ---------------
+    Top Copper
+    Top Silkscreen
+
+
+PDF Output
+==========
+
+    Layer
+    ------------------
+    Bottom Copper
+    Bottom Silkscreen
+
+
+End Of Report.

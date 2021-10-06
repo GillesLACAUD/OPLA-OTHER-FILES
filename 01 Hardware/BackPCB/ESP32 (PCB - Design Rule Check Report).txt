@@ -1,0 +1,120 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Tuesday, July 06, 2021
+Project Path:       C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\V1.0 Minimal Version\ESP32.prj
+Design Path:        C:\DOCUMENTS\Gilles\HANSY\ESP32AUDIO\01 Hardware\V1.0 Minimal Version\ESP32.pcb
+Design Title:       
+Created:            04/07/2021 16:07:10
+Last Saved:         05/07/2021 21:59:41
+Editing Time:       572 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+Pad to Board Error (P-B) between (-78.45 -1.16) and (-78.45 -0.13) on Layer "[All]".
+    Error between Pad (Net 'Gnd') and Board, Gap is 0.97 needs to be 2.54.
+Pad to Board Error (P-B) between (-1.15 -64.46) and (0.00 -64.46) on Layer "[All]".
+    Error between Pad (Net 'Gnd') and Board, Gap is 1.09 needs to be 2.54.
+Pad to Silkscreen error (P-S) at (-5.31 -5.33) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Board Error (P-B) between (-3.55 -1.06) and (-3.55 -0.13) on Layer "[All]".
+    Error between Pad (Net 'Gnd') and Board, Gap is 0.87 needs to be 2.54.
+Pad to Board Error (P-B) between (-81.05 -64.56) and (-82.10 -64.56) on Layer "[All]".
+    Error between Pad (Net 'Gnd') and Board, Gap is 0.99 needs to be 2.54.
+Track to Drill Hole error (T-D) at (-21.60 -10.08) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Pad to Silkscreen Error (P-S) between (-62.36 -5.00) and (-62.41 -5.00) on Layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Track to Drill Hole error (T-D) at (-74.00 -17.40) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (-26.00 -11.12) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Pad to Silkscreen error (P-S) at (-31.36 -7.47) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Pad error (P-P) at (-44.55 -2.92) on layer "[All]".
+    Error between Component Pad J5.9 and Component Pad J5.10, Gap is 0.00 needs to be 0.25.
+Pad to Board Error (P-B) between (-43.95 -0.90) and (-43.95 -0.13) on Layer "[All]".
+    Error between Component Pad J5.9 and Board, Gap is 0.71 needs to be 2.54.
+Pad to Pad error (P-P) at (-37.05 -1.08) on layer "[All]".
+    Error between Component Pad J5.8 and Component Pad J5.11, Gap is 0.00 needs to be 0.25.
+Pad to Board Error (P-B) between (-38.95 -0.90) and (-38.95 -0.13) on Layer "[All]".
+    Error between Component Pad J5.8 and Board, Gap is 0.71 needs to be 2.54.
+Pad to Board Error (P-B) between (-46.45 -0.90) and (-46.45 -0.13) on Layer "[All]".
+    Error between Component Pad J5.10 and Board, Gap is 0.71 needs to be 2.54.
+Pad to Board Error (P-B) between (-36.45 -0.90) and (-36.45 -0.13) on Layer "[All]".
+    Error between Component Pad J5.11 and Board, Gap is 0.71 needs to be 2.54.
+Via to Silkscreen error (V-S) at (-50.45 -16.10) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (-30.20 -2.31) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Via to Silkscreen error (V-S) at (-30.20 -11.91) on layer "Bottom Silkscreen".
+    Silkscreen shape overlaps via.
+Track to Drill Hole error (T-D) at (-10.40 -3.56) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (-50.00 -15.55) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Board Error (T-B) between (-10.70 -1.60) and (-10.70 -0.13) on Layer "Bottom Copper".
+    Error between Track (Net '+5V') and Board, Gap is 0.78 needs to be 2.03.
+Track to Board Error (T-B) between (-30.20 -1.60) and (-30.20 -0.13) on Layer "Top Copper".
+    Error between Track (Net '+5V') and Board, Gap is 0.78 needs to be 2.03.
+Track to Drill Hole error (T-D) at (-30.20 -1.60) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Via to Board Error (V-B) between (-30.20 -0.89) and (-30.20 -0.13) on Layer "[All]".
+    Error between Via (Net '+5V') and Board, Gap is 0.70 needs to be 2.54.
+Track to Drill Hole error (T-D) at (-29.70 -11.40) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Component to Component error (Cm-Cm) at (-30.20 -9.38) on layer "[Bottom]".
+    J5 - J1, Gap is 0.00.
+Component to Component error (Cm-Cm) at (-20.33 -9.38) on layer "[Bottom]".
+    PL1 - J1, Gap is 0.00.
+
+Number of errors found : 28
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.
